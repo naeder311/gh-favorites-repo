@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Chocolate
 sof pretzels
 celary
+=======
+American Pie
+Ninja Turtles
+Avatar
+>>>>>>> movies
